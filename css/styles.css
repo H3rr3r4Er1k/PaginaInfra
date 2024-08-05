@@ -190,7 +190,7 @@ input[type="text"] {
 /*imagen del banner y conedora de  los otros elementos*/
 
 .banner {
-    background: linear-gradient(to right, rgba(219, 204, 71, 0.411) 15%, rgba(235, 232, 232, 0.753)), url(../img/portada-movil.jpg);
+    background: linear-gradient(to right, rgba(219, 204, 71, 0.411) 15%, rgba(235, 232, 232, 0.753)), url(../img/Portada-movil.jpg);
     height: 100%;
     width: 100vw;
     background-size: cover;
@@ -242,7 +242,7 @@ input[type="text"] {
         height: 78.5vh;
     }
     .banner {
-        background: linear-gradient(to right, rgba(169, 226, 115, 0.74) 15%, rgba(170, 170, 167, 0.534)), url(../img/portada.jpg);
+        background: linear-gradient(to right, rgba(169, 226, 115, 0.74) 15%, rgba(170, 170, 167, 0.534)), url(../img/Portada.jpg);
     }
     .banner-title {
         font-size: 50px;
