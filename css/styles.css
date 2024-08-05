@@ -190,7 +190,7 @@ input[type="text"] {
 /*imagen del banner y conedora de  los otros elementos*/
 
 .banner {
-    background: linear-gradient(to right, rgba(219, 204, 71, 0.411) 15%, rgba(235, 232, 232, 0.753)), url(../img/Portada-movil.jpg);
+    background: linear-gradient(to right, rgba(219, 204, 71, 0.411) 15%, rgba(235, 232, 232, 0.753)), url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eloficial.ec%2Fnovacero-empresa-con-mejor-reputacion-en-el-sector-del-acero-segun-ranking-merco%2F&psig=AOvVaw3QkqFjeiBnaLKRLkHr_PLS&ust=1722934967088000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIDu6Im_3YcDFQAAAAAdAAAAABAJ);
     height: 100%;
     width: 100vw;
     background-size: cover;
